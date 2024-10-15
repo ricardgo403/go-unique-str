@@ -2,7 +2,7 @@ package uniqueStr
 
 import (
 	"fmt"
-	"github.com/ricardgo403/uniqueStr/internal"
+	"github.com/ricardgo403/go-unique-str/internal"
 )
 
 //TIP To run your code, right-click the code and select <b>Run</b>. Alternatively, click

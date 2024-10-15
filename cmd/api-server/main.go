@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ricardgo403/uniqueStr"
+	"github.com/ricardgo403/go-unique-str"
 	"log"
 )
 
